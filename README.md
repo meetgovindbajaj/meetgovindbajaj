@@ -56,6 +56,6 @@ I am a _software engineer_ passionate about _solving problems_ using \*technolog
 
 [![Govind's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=meetgovindbajaj&theme=xcode)](https://github.com/meetgovindbajaj)
 
-[!snake svg](https://github.com/meetgovindbajaj/meetgovindbajaj/blob/output/github-contribution-grid-snake-dark.svg)
+![snake svg](https://github.com/meetgovindbajaj/meetgovindbajaj/blob/output/github-contribution-grid-snake-dark.svg)
    
 [![GitHub followers](https://img.shields.io/github/followers/meetgovindbajaj.svg?style=social&label=Follow)](https://github.com/meetgovindbajaj?tab=followers)
