@@ -52,7 +52,6 @@
 
 ![Govind's summary][summary]
 ![Govind's snake][snake]
-![Govind's activity][activity]
 
 
 ## :zap: Achievements :zap:
