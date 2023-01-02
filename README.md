@@ -13,7 +13,7 @@
 
 <div align="center">
 
-![Govind's visitors][visitors]
+<!-- ![Govind's visitors][visitors] -->
 
 ![Govind's Typing SVG][typing svg]
 
@@ -51,7 +51,7 @@
 ## :zap: Contributions :zap:
 
 ![Govind's summary][summary]
-![Govind's snake][snake]
+<!-- ![Govind's snake][snake] -->
 
 
 ## :zap: Achievements :zap:
