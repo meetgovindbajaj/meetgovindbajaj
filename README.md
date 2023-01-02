@@ -20,7 +20,7 @@
 
 ## :trophy: About Me :trophy:
 
-#### I'm very ambitious Web Developer, strong in design and integration with intuitive problem-solving skills. I'm looking for a role in established IT company with the opportunity to work with the latest technologies on challenging and diverse projects.I'm quietly confident, naturally curious, and passionate about implementing and launching new websites.
+#### I'm very ambitious Web Developer, strong in design and integration with intuitive problem-solving skills. I'm looking for a role in established IT company with the opportunity to work with the latest technologies on challenging and diverse projects. I'm quietly confident, naturally curious, and passionate about implementing and launching new websites.
 
 ### Web Developer | Frontend Engineer | Backend Engineer | Community Dev
 
