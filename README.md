@@ -44,8 +44,8 @@
 ## :zap: Stats :zap:
 
 ![Govind's GitHub Streak][streak]
-![Govind's GitHub stats][stats]
-![Govind's Top Langs][lang]
+<!-- ![Govind's GitHub stats][stats] -->
+<!-- ![Govind's Top Langs][lang] -->
 
 
 ## :zap: Contributions :zap:
