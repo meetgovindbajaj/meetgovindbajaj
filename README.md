@@ -1,6 +1,7 @@
 [githubusername]: meetgovindbajaj
 [typing svg]: https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=30&duration=4000&pause=&color=F7D300&center=true&vCenter=true&width=435&height=100&lines=Hi+There!+%F0%9F%91%8B;I'm+Govind+Bajaj
-[visitors]: https://visitor-badge.laobi.icu/badge?page_id=meetgovindbajaj.meetgovindbajaj&left_color=black&right_color=yellow&left_text=Visitors%20😎
+[visitors]: https://visitor-badge.laobi.icu/badge?page_id=meetgovindbajaj.meetgovindbajaj&left_color=black&right_color=yellow&left_text=Visitors%20😎&format=true
+[visitors1]:https://komarev.com/ghpvc/?username=meetgovindbajaj&style=for-the-badge&color=yellow&label=Visitors%20😎
 [summary]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meetgovindbajaj&theme=github_dark
 [stats]: https://github-readme-stats.vercel.app/api?username=meetgovindbajaj&theme=vision-friendly-dark&hide_border=true&border_radius=10
 [lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=meetgovindbajaj&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=10
@@ -13,7 +14,7 @@
 
 <div align="center">
 
-<!-- ![Govind's visitors][visitors] -->
+![Govind's visitors][visitors]
 
 ![Govind's Typing SVG][typing svg]
 
@@ -44,8 +45,8 @@
 ## :zap: Stats :zap:
 
 ![Govind's GitHub Streak][streak]
-<!-- ![Govind's GitHub stats][stats] -->
-<!-- ![Govind's Top Langs][lang] -->
+![Govind's GitHub stats][stats] 
+![Govind's Top Langs][lang]
 
 
 ## :zap: Contributions :zap:
