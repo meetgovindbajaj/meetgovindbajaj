@@ -52,8 +52,7 @@
 
 
 <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@meetgovindbajaj&theme=transparent" /> 
-
-<figure><embed src="https://wakatime.com/share/@meetgovindbajaj/d34bff44-1c8f-4bb8-8df4-9e2ea5f51dd9.svg"></embed></figure>
+<img src="https://wakatime.com/share/@meetgovindbajaj/03b82991-bca0-4f0b-8054-9e2e04158d8d.svg" height="450"/>
 
 ## :zap: Contributions :zap:
 
