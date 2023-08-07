@@ -45,7 +45,7 @@
 ## :zap: Stats :zap:
 
 ![Govind's GitHub Streak][streak]
-![Govind's GitHub stats][stats] 
+<!-- ![Govind's GitHub stats][stats] -->
 ![Govind's Top Langs][lang]
 
 
