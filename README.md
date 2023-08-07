@@ -8,7 +8,7 @@
 [trophy]: https://github-profile-trophy.vercel.app/?username=meetgovindbajaj&theme=darkhub
 [streak]: https://streak-stats.demolab.com?user=meetgovindbajaj&theme=highcontrast&hide_border=true&border_radius=10
 [activity]: https://activity-graph.herokuapp.com/graph?username=meetgovindbajaj&theme=react-dark&radius=10&hide_border=true&area=true
-[snake]: https://github.com/meetgovindbajaj/meetgovindbajaj/blob/output/github-contribution-grid-snake-dark.svg
+[snake]: https://github.com/meetgovindbajaj/meetgovindbajaj/blob/output/github-contribution-grid-snake.svg
 [skills]: https://skillicons.dev/icons?i=react,redux,express,nodejs,mongodb,firebase,js,jest,html,css,materialui,bootstrap,tailwind,py,php,java,selenium,md&perline=9
 [technologies]: https://skillicons.dev/icons?i=vscode,heroku,netlify,vercel,vite,bash,eclipse,stackoverflow,powershell,github,discord,linkedin,instagram,twitter&perline=7
 
@@ -52,7 +52,7 @@
 ## :zap: Contributions :zap:
 
 ![Govind's summary][summary]
-<!-- ![Govind's snake][snake] -->
+![Govind's snake][snake]
 
 
 ## :zap: Achievements :zap:
