@@ -44,44 +44,12 @@
 ![Govind's GitHub Streak][streak]
 
 <!-- stats -->
-<picture>
-  <source
-    srcset="
-      https://github-readme-stats.vercel.app/api?username=meetgovindbajaj&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&rank_icon=github&hide=prs
-    "
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="
-      https://github-readme-stats.vercel.app/api?username=meetgovindbajaj&show_icons=true&border_radius=10&include_all_commits=true&rank_icon=github&hide=prs
-    "
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=meetgovindbajaj&show_icons=true&border_radius=10&include_all_commits=true&rank_icon=github&hide=prs"
-  />
-</picture>
-
-
-<picture>
-  <source
-    srcset="
-      https://github-readme-stats.vercel.app/api/top-langs/?username=meetgovindbajaj&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5
-    "
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="
-     https://github-readme-stats.vercel.app/api/top-langs/?username=meetgovindbajaj&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5
-    "
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetgovindbajaj&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5"
-  />
-</picture>
+![Govind's Github Stats](https://github-readme-stats.vercel.app/api?username=meetgovindbajaj&show_icons=true&theme=transparent&border_radius=10&include_all_commits=true&rank_icon=github&hide=prs)
 
 <br/>
+
+![Govind's Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meetgovindbajaj&layout=pie&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5)
+
 
 <!--  <img
     src="https://github-readme-stats.vercel.app/api/wakatime?username=meetgovindbajaj&layout=compact"
@@ -95,8 +63,8 @@
 ![Govind's snake](https://github.com/meetgovindbajaj/meetgovindbajaj/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Govind's snake](https://github.com/meetgovindbajaj/meetgovindbajaj/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-## :zap: Achievements :zap:
+<!-- ## :zap: Achievements :zap:
 
 ![Govind's trophy][trophy]
-
+-->
 </div>
