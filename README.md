@@ -1,13 +1,11 @@
 [githubusername]: meetgovindbajaj
 [typing svg]: https://readme-typing-svg.demolab.com?font=Raleway&weight=500&size=30&duration=4000&pause=&color=F7D300&center=true&vCenter=true&width=435&height=100&lines=Hi+There!+%F0%9F%91%8B;I'm+Govind+Bajaj
 [visitors]: https://visitor-badge.laobi.icu/badge?page_id=meetgovindbajaj.meetgovindbajaj&left_color=black&right_color=yellow&left_text=Visitors%20😎&format=true
-[visitors1]:https://komarev.com/ghpvc/?username=meetgovindbajaj&style=for-the-badge&color=yellow&label=Visitors%20😎
-[summary]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meetgovindbajaj&theme=github_dark
-[stats]: https://github-readme-stats.vercel.app/api?username=meetgovindbajaj&theme=vision-friendly-dark&hide_border=true&border_radius=10
+[summary]: https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meetgovindbajaj&theme=transparent
 [lang]: https://github-readme-stats.vercel.app/api/top-langs/?username=meetgovindbajaj&layout=compact&theme=vision-friendly-dark&hide_border=true&border_radius=10
-[trophy]: https://github-profile-trophy.vercel.app/?username=meetgovindbajaj&theme=darkhub
-[streak]: https://streak-stats.demolab.com?user=meetgovindbajaj&theme=highcontrast&hide_border=true&border_radius=10
-[activity]: https://activity-graph.herokuapp.com/graph?username=meetgovindbajaj&theme=react-dark&radius=10&hide_border=true&area=true
+[trophy]: https://github-profile-trophy.vercel.app/?username=meetgovindbajaj&theme=transparent
+[streak]: https://streak-stats.demolab.com?user=meetgovindbajaj&theme=transparent&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&card_width=500
+[activity]: https://activity-graph.herokuapp.com/graph?username=meetgovindbajaj&theme=transparent&radius=10&hide_border=true&area=true
 [skills]: https://skillicons.dev/icons?i=react,redux,express,nodejs,mongodb,firebase,js,jest,html,css,materialui,bootstrap,tailwind,py,php,java,selenium,md&perline=9
 [technologies]: https://skillicons.dev/icons?i=vscode,heroku,netlify,vercel,vite,bash,eclipse,stackoverflow,powershell,github,discord,linkedin,instagram,twitter&perline=7
 
@@ -44,8 +42,51 @@
 ## :zap: Stats :zap:
 
 ![Govind's GitHub Streak][streak]
-<!-- ![Govind's GitHub stats][stats] -->
-![Govind's Top Langs][lang]
+
+<!-- stats -->
+<picture>
+  <source
+    srcset="
+      https://github-readme-stats.vercel.app/api?username=meetgovindbajaj&show_icons=true&theme=dark&border_radius=10&include_all_commits=true&rank_icon=github&hide=prs
+    "
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="
+      https://github-readme-stats.vercel.app/api?username=meetgovindbajaj&show_icons=true&border_radius=10&include_all_commits=true&rank_icon=github&hide=prs
+    "
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=meetgovindbajaj&show_icons=true&border_radius=10&include_all_commits=true&rank_icon=github&hide=prs"
+  />
+</picture>
+
+
+<picture>
+  <source
+    srcset="
+      https://github-readme-stats.vercel.app/api/top-langs/?username=meetgovindbajaj&layout=compact&theme=vision-friendly-dark&border_radius=10&size_weight=0.5&count_weight=0.5
+    "
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="
+     https://github-readme-stats.vercel.app/api/top-langs/?username=meetgovindbajaj&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5
+    "
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=meetgovindbajaj&layout=compact&border_radius=10&size_weight=0.5&count_weight=0.5"
+  />
+</picture>
+
+<br/>
+
+<!--  <img
+    src="https://github-readme-stats.vercel.app/api/wakatime?username=meetgovindbajaj&layout=compact"
+  /> -->
+
 
 
 ## :zap: Contributions :zap:
