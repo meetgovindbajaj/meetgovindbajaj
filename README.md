@@ -51,11 +51,9 @@
 ![Govind's Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meetgovindbajaj&layout=pie&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5)
 
 
-<!--  <img
-    src="https://github-readme-stats.vercel.app/api/wakatime?username=meetgovindbajaj&layout=compact"
-  /> -->
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@meetgovindbajaj&theme=transparent" /> 
 
-
+<figure><embed src="https://wakatime.com/share/@meetgovindbajaj/d34bff44-1c8f-4bb8-8df4-9e2ea5f51dd9.svg"></embed></figure>
 
 ## :zap: Contributions :zap:
 
