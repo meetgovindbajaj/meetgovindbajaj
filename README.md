@@ -60,8 +60,4 @@
 ![Govind's snake](https://github.com/meetgovindbajaj/meetgovindbajaj/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 ![Govind's snake](https://github.com/meetgovindbajaj/meetgovindbajaj/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-<!-- ## :zap: Achievements :zap:
-
-![Govind's trophy][trophy]
--->
 </div>
