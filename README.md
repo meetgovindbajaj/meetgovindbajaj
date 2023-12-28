@@ -56,7 +56,7 @@
 ## :zap: Contributions :zap:
 
 ![Govind's summary][summary]
-![Govind's snake](https://github.com/meetgovindbajaj/meetgovindbajaj/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![Govind's snake](https://github.com/meetgovindbajaj/meetgovindbajaj/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<!--![Govind's snake](https://github.com/meetgovindbajaj/meetgovindbajaj/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![Govind's snake](https://github.com/meetgovindbajaj/meetgovindbajaj/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)-->
 
 </div>
