@@ -50,9 +50,9 @@
 ![Govind's Github Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=meetgovindbajaj&layout=pie&theme=transparent&border_radius=10&size_weight=0.5&count_weight=0.5)
  -->
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=@meetgovindbajaj&theme=transparent" /> 
+<!-- <img src="https://github-readme-stats.vercel.app/api/wakatime?username=@meetgovindbajaj&theme=transparent" /> 
 <img src="https://wakatime.com/share/@meetgovindbajaj/03b82991-bca0-4f0b-8054-9e2e04158d8d.svg" height="450"/>
-
+-->
 
 ![Govind's GitHub Streak](https://github-readme-stats.hackclub.dev/api/wakatime?username=14741&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=gotham
 )
